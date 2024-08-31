@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
     Halo, semuanya! I'm Mohammad Rizky! I'm from Indonesia and a colleger at Universitas Tangerang Raya, I'm currently pursuing my dreams in the world of technology and software development.
-    As a Back-End developer, I'm currently focused on the Discord Bot project and the others, which utilizes the latest technology to develop innovative and useful solutions.
+    As a Back-End developer and Prompt Engineer, I'm currently focused on the Discord Bot project and the others, which utilizes the latest technology to develop innovative and useful solutions.
     My hobbies include gaming and programming, which not only make me happy but also improve my technical skills.
     I believe that the combination of creativity and technology is the key to developing effective software solutions.
     In the future, I wanna become a teacher who can share my knowledge and experience with the next generation.
