@@ -24,6 +24,8 @@
 
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&labelColor=black)
 
+![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=black)
+
 
 
 
